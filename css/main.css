@@ -2,8 +2,8 @@
 .sections-grid {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
-    min-height: 50vh;
-    background-color: white;
+    min-height: 30vh;
+    background-color: rgb(243, 241, 241);
     animation-name: main-section;
     animation-duration: 1.5s;
     animation-direction: forwards;
